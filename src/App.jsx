@@ -1,4 +1,4 @@
-// src/App.js
+
 import React from 'react';
 import Quiz from './Components/Quiz';
 import Result from './Components/Result';
