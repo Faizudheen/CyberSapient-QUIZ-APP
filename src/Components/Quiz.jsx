@@ -1,4 +1,4 @@
-// src/components/Quiz.js
+
 import React, { useState, useEffect } from 'react';
 import { useQuiz } from '../Context';
 import questions from '../Components/Questions';
