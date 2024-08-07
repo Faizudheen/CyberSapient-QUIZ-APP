@@ -1,4 +1,4 @@
-// src/components/Result.js
+
 import React from 'react';
 import { useQuiz } from '../Context';
 
